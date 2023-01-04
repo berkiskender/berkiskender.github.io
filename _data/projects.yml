@@ -1,0 +1,29 @@
+
+- title:
+  type: time_table
+  contents:
+    - title: A possible super-resolution objective function maximizing Fourier shell correlation combining the metric with existing GAN based methods
+      institution:
+      year:
+      description: Course - Machine Learning for Signal Processing
+
+    - title: Implementation and comparison of S-o-A algorithms for aerial agricultural image segmentation
+      institution:
+      year:
+      description: Course - Computer Vision
+
+    - title: Project on CNN-based projected gradient descent for consistent X-ray CT scatter correction
+      institution:
+      year:
+      description: Course - Digital Imaging
+
+    - title: Analysis of LASSO problem and comparison of various analytic/learning based algorithms
+      institution:
+      year:
+      description: Course - Computational Inference and Learning
+
+    - title: Reducing spatially varying out-of-focus blur
+      institution:
+      year:
+      description: Course - Vector Space Signal Processing
+      url: https://www.google.com
