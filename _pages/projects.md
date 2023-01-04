@@ -7,10 +7,6 @@ nav_order: 3
 projects_pdf:
 ---
 
-I’m currently a PhD student at the [ECE department](https://ece.illinois.edu/) of [University of Illinois at Urbana-Champaign](https://illinois.edu/). My advisor is [Prof. Yoram Bresler](https://ece.illinois.edu/about/directory/faculty/ybresler). I’m interested in machine learning, signal/image processing, computational imaging, computer vision, and inverse problems. I received my B.Sc. from [Middle East Technical University](https://www.metu.edu.tr/) in [Electrical Engineering](https://eee.metu.edu.tr/) and my MS degree from University of Illinois at Urbana-Champaign in Electrical and Computer Engineering.
-
-
-
 
 
 

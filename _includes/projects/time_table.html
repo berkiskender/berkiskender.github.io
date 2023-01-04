@@ -34,6 +34,15 @@
                 {% endfor %}
               </ul>
             {% endif %}
+
+            {%- if content.pdf %}
+              {% if content.pdf contains '://' -%}
+              <a href="{{ content.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
+              {%- else -%}
+              <a href="{{ content.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
+              {%- endif %}
+            {%- endif %}
+
             {% if content.items %}
               <ul class="items">
                 {% for item in content.items %}
