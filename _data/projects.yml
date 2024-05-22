@@ -2,7 +2,7 @@
 - title:
   type: time_table
   contents:
-    - title: A possible super-resolution objective function maximizing Fourier shell correlation combining the metric with existing GAN based methods
+    - title: A super-resolution objective function maximizing Fourier shell correlation combined with existing GAN based methods
       institution:
       year:
       description: Course - Machine Learning for Signal Processing
@@ -14,7 +14,7 @@
       description: Course - Computer Vision
       pdf: ECE549_Project.pdf
 
-    - title: Project on CNN-based projected gradient descent for consistent X-ray CT scatter correction
+    - title: CNN-based projected gradient descent for consistent X-ray CT scatter correction
       institution:
       year:
       description: Course - Digital Imaging
