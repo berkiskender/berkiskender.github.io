@@ -21,6 +21,8 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I’m currently a PhD student at the [Electrical and Computer Engineering department](https://ece.illinois.edu/) of [University of Illinois at Urbana-Champaign](https://illinois.edu/). My advisor is [Prof. Yoram Bresler](https://ece.illinois.edu/about/directory/faculty/ybresler). I received my B.Sc. from [Middle East Technical University](https://www.metu.edu.tr/) in [Electrical Engineering](https://eee.metu.edu.tr/) and my M.S. degree from University of Illinois at Urbana-Champaign in Electrical and Computer Engineering.
+Hi! I am a research scientist in the Algorithmic Systems Group of [Analog Garage](https://www.analog.com/en/incubators/analog-garage.html), the research incubator of [Analog Devices, Inc](https://www.analog.com/en/index.html).
+
+I completed my PhD at the [Electrical and Computer Engineering department](https://ece.illinois.edu/) of [University of Illinois at Urbana-Champaign](https://illinois.edu/), advised by [Prof. Yoram Bresler](https://ece.illinois.edu/about/directory/faculty/ybresler). I received my B.Sc. from [Middle East Technical University](https://www.metu.edu.tr/) in [Electrical Engineering](https://eee.metu.edu.tr/) and my M.S. degree from University of Illinois at Urbana-Champaign in Electrical and Computer Engineering.
 
 My research interests include machine learning, signal/image processing, computational imaging, computer vision, and inverse problems.
