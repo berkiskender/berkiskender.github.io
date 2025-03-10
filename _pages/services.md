@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /
+permalink: /services/
 title: Professional Services
 description:
 nav: true
