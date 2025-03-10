@@ -1,12 +1,11 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /
 title: Teaching
 description:
-nav: false
+nav: true
 nav_order: 4
 ---
 
-<!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like! -->
+Graduate teaching assistant of Digital Signal Processing course for Fall 2019, Spring 2020 and Fall 2020.

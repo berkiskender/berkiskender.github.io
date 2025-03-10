@@ -31,24 +31,20 @@
 - title:
   type: time_table
   contents:
+    - title: Machine Learning Research Scientist
+      institution: Analog Garage, Analog Devices - Boston, MA, US
+      year: 2024
+      description: (Ongoing)
     - title: PhD SWE Internship / Student Researcher
       institution: Google - CA, US
       year: 2022
       description:
         - Research on improving self-supervised dense contrastive learning using different dense comparison methods and reconstruction decoders. Work accepted to NeurIPS 2022 Self-Supervised Learning - Theory & Practice Workshop.
-        # - title: Description 3.
-        #   contents:
-        #     - Sub-description 1.
-        #     - Sub-description 2.
     - title: PhD SWE (Machine Learning) Internship
       institution: Google - CA, US
       year: 2021
       description:
         - Implemented & compared various visual-semantic image embedding techniques, deployed a novel Supervised Contrastive Learning based method to replace an attribute-based embedding one to assist graph-hierarchical clustering.
-        # - title: Description 3.
-        #   contents:
-        #     - Sub-description 1.
-        #     - Sub-description 2.
     - title: Research Internship
       institution: Michigan State University (MSU) – MI, US
       year: 2020

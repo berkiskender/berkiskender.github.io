@@ -2,8 +2,8 @@
 layout: projects
 title: Projects
 permalink: /projects/
-nav: true
-nav_order: 3
+nav: false
+nav_order: 5
 projects_pdf:
 ---
 
