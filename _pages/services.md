@@ -12,6 +12,7 @@ Reviewer for Journals:
 - IEEE Transactions on Medical Imaging
 
 Reviewer for Conferences:
+- IEEE/CVF CVPR
+- IEEE/CVF ICCV
 - IEEE ICASSP
-- ICCV
 
